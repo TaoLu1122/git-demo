@@ -12,5 +12,5 @@ hello taolu, hello git.
 hello taolu, hello git.
 hello taolu, hello git.
 hello taolu, hello git.
-hello taolu, hello git.
-hello taolu, hello git.
+hello taolu, hello git. 
+hello taolu, hello git. hot-fix test
