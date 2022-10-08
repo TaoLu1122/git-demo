@@ -11,6 +11,6 @@ hello taolu, hello git.
 hello taolu, hello git.
 hello taolu, hello git.
 hello taolu, hello git.
-hello taolu, hello git.
-hello taolu, hello git. 
+hello taolu, hello git. git reset --soft
+hello taolu, hello git.  
 hello taolu, hello git. hot-fix test
